@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e34fc46_002D5eb3_002D4205_002D8b66_002D50b1a14a3dd7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdateCustomerCommandValidatorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E619137A-3F7D-4309-877C-CE39A2FD557A::net7.0::MovieStore.UnitTests.Application.CustomerOperations.Commands.UpdateCustomer.UpdateCustomerCommandValidatorTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b75a2f14_002Ded3c_002D4dee_002Dbf1e_002D40c688a5c063/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateDirectorCommandValidatorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFolder&gt;E619137A-3F7D-4309-877C-CE39A2FD557A/d:Application&lt;/ProjectFolder&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dcf80b58_002D2ae3_002D44c8_002Dbfc9_002D0d67115c5150/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Application" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFolder&gt;E619137A-3F7D-4309-877C-CE39A2FD557A/d:Application&lt;/ProjectFolder&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ddaa4ef6_002Db228_002D426b_002D863c_002D85ad86af0a2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetActorDetailValidatorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::E619137A-3F7D-4309-877C-CE39A2FD557A::net7.0::MovieStore.UnitTests.Application.ActorOperations.Queries.GetActorDetail.GetActorDetailValidatorTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

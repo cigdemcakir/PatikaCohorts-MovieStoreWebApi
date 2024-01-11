@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rv18neDd5VNJ35wkwrRDa62duOBNSGVkcMjkeh5p/4M=",
+  "Source": "MovieStore.WebApi",
+  "BasePath": "_content/MovieStore.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
