@@ -12,33 +12,34 @@ This document provides a comprehensive overview of the Movie Store project, a so
 
 ----
 
-- **Movies Management** 
+✓ **Movies Management** 
 
 The Movies module is developed to administer various aspects of a movie entity, including its name, year of release, genre, associated director, actors involved, and pricing details.
 
 Distinct management of directors and actors is a key feature, recognizing the potential dual roles individuals may hold.
 
-- **Actors Module**
+✓ **Actors Module**
 
 This module focuses on the storage and retrieval of actor-specific information, including their names and filmography.
 
 It supports a many-to-many relationship between actors and movies, allowing flexible data association.
 
-- **Directors Module**
+✓ **Directors Module**
 
 Directors are cataloged with their names and the films they have directed, mirroring the structure of the Actors module.
 
-- **Customer Profiles**
+✓ **Customer Profiles**
 
 Central to the application, this module handles customer data, including personal details, purchase history, and preferred genres.
 
 It allows for the repetition of genre purchases and supports the storage of multiple favorite genres per customer.
 
-- **Authentication Mechanism**
+✓ **Authentication Mechanism**
 
 To safeguard transactions and user interactions, a robust customer authentication system has been implemented.
 
-- **Purchase Records**
+✓ **Purchase Records**
+  
 A comprehensive recording system tracks each transaction, documenting relevant details such as the customer, movie, price, and date of purchase.
 
 <br/>
@@ -47,27 +48,27 @@ A comprehensive recording system tracks each transaction, documenting relevant d
 
 ---
 
-- **Movie Operations:**
+- **Movie Operations**
 
 Functionalities for adding, deleting, updating, and listing movies have been integrated.
 
-- **Customer Management:**
+- **Customer Management**
 
 This includes capabilities to add and delete customer profiles.
 
-- **Actor Management:**
+- **Actor Management**
 
 Encompasses adding, deleting, updating, and listing actors.
 
-- **Director Management:**
+- **Director Management**
 
 Similar functionalities as actors, tailored for directors.
 
-- **Movie Purchases:**
+- **Movie Purchases**
 
 A feature enabling customers to purchase movies through the application.
 
-- **Customer Purchase History:**
+- **Customer Purchase History**
 
 A tracking system for customer purchases, designed to maintain records irrespective of movie availability in the database.
 
