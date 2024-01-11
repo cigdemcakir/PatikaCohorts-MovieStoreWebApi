@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "92mH7ef8uIl0BJWGgXv0gLiLIJobL1OyRTCEKBpUhBL3BQwAdOuYBo+Z8mHqvvHZUr3nk8VLFuKaz9ER7+cmDw==",
+  "dgSpecHash": "K2oNJ3wT9GtothyDB21tr25Q3dzku230TRaJRmO5PDFQB+ynv2R4YTGtptCScp3h0S3dMKyjr/yY5KXgCIEtIg==",
   "success": true,
-  "projectFilePath": "/Users/Levent/Desktop/PatikaCohorts-MovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj",
+  "projectFilePath": "/Users/Levent/Desktop/_gitMovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/Levent/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/Levent/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

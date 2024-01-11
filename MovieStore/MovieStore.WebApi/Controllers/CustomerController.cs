@@ -16,7 +16,6 @@ using MovieStore.WebApi.DBOperations;
 
 namespace MovieStore.WebApi.Controllers
 {
-    //[Authorize]
     [ApiController]
     [Route("[controller]s")]
     public class CustomerController : ControllerBase
@@ -82,6 +81,7 @@ namespace MovieStore.WebApi.Controllers
             return resultToken;
         }
 
+        [Authorize]
         [HttpDelete("{customerId}")]
         public IActionResult DeleteCustomer(int customerId)
         {
@@ -98,6 +98,7 @@ namespace MovieStore.WebApi.Controllers
             return Ok();
         }
 
+        [Authorize]
         [HttpPut("UpdateFavoriteGenre")]
         public IActionResult UpdateFavoriteGenre(int customerId, int genreId)
         {
@@ -116,6 +117,7 @@ namespace MovieStore.WebApi.Controllers
             return Ok();
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult GetCustomers()
         {
@@ -126,6 +128,7 @@ namespace MovieStore.WebApi.Controllers
             return Ok(viewModels);
         }
 
+        [Authorize]
         [HttpGet("customerId")]
         public IActionResult GetCustomerById(int customerId)
         {

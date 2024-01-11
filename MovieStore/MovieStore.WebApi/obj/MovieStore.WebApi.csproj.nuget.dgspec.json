@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Levent/Desktop/PatikaCohorts-MovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj": {}
+    "/Users/Levent/Desktop/_gitMovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj": {}
   },
   "projects": {
-    "/Users/Levent/Desktop/PatikaCohorts-MovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj": {
+    "/Users/Levent/Desktop/_gitMovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Levent/Desktop/PatikaCohorts-MovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj",
+        "projectUniqueName": "/Users/Levent/Desktop/_gitMovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj",
         "projectName": "MovieStore.WebApi",
-        "projectPath": "/Users/Levent/Desktop/PatikaCohorts-MovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj",
+        "projectPath": "/Users/Levent/Desktop/_gitMovieStore/MovieStore/MovieStore.WebApi/MovieStore.WebApi.csproj",
         "packagesPath": "/Users/Levent/.nuget/packages/",
-        "outputPath": "/Users/Levent/Desktop/PatikaCohorts-MovieStore/MovieStore/MovieStore.WebApi/obj/",
+        "outputPath": "/Users/Levent/Desktop/_gitMovieStore/MovieStore/MovieStore.WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Levent/.nuget/NuGet/NuGet.Config"

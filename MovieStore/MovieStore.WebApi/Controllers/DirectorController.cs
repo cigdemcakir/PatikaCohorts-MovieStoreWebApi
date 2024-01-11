@@ -11,7 +11,7 @@ using MovieStore.WebApi.DBOperations;
 
 namespace MovieStore.WebApi.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [ApiController]
     [Route("[controller]s")]
     public class DirectorController : ControllerBase
